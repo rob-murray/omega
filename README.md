@@ -2,6 +2,8 @@
 
 Duke Nukem 3D level - Omega Station
 
+Originally written 1990s sometime 🕹
+
 ### Description
 
 This is my first major level which includes most of the stuff I know
